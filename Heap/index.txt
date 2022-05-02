@@ -1,1 +1,2 @@
-
+insertion in heap take log(n) time (in worst case)
+hepify function take log(n) to hepify a index and auxillary space O(log(n))(worst case)
